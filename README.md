@@ -1,2 +1,3 @@
-# cognizant_Internal_lab_gradle
-Cognizant internal lab task gradle with spring boot application 
+# Related Blog Posts
+
+* [Mocking with (and without) Spring Boot](https://reflectoring.io/spring-boot-mock/)
